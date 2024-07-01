@@ -4,11 +4,11 @@
 </p> -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+Welcome+to+my+GitHub+page;" />
-<!-- <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif'+width='28px'+height='28px'+alt='hi'> -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+Welcome+to+my+GitHub+page;" />
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" alt="Waving Hand">
 </h1>
 
-<h2 align="center">Welcome to my Github page! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" alt="Waving Hand"> </h2>
+<!-- <h2 align="center">Welcome to my Github page! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" alt="Waving Hand"> </h2> -->
 
 <br/>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
