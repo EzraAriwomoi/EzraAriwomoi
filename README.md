@@ -16,9 +16,9 @@
 <img align="right" alt="Coding" width="270" src="thinking-coding-EzraAriwomoi.gif">
 <div align="left">
  
-Passionate <span style="color:#0e75b6">Fullstack Developer</span>, with a love for creative problem-solving and a commitment to continuous learning. Known for strong communication and teamwork, I excel in delivering high-quality projects by effectively collaborating and adapting to new technologies.
+Passionate `Fullstack Developer` with a love for creative problem-solving and a commitment to continuous learning. Known for strong communication and teamwork, I excel in delivering high-quality projects by effectively collaborating and adapting to new technologies.
 
-💬 Ask me about **Flutter, React, Python, Firebase... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
+💬 Ask me about **`Flutter` `React` `Python` `Firebase`... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
 
  </div>
  
