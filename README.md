@@ -11,7 +11,8 @@
 <!-- <h2 align="center">Welcome to my Github page! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" alt="Waving Hand"> </h2> -->
 
 <br/>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <div align="left">
  
 Fullstack developer from Kenya. Have a deep passion for technology, love solving problems creatively. What I enjoy most about being a fullstack developer is the opportunity to constantly learn and adapt to new technologies. 
