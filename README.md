@@ -12,7 +12,7 @@
 
 <br/>
 <!-- <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <div align="left">
  
 Fullstack developer from Kenya. Have a deep passion for technology, love solving problems creatively. What I enjoy most about being a fullstack developer is the opportunity to constantly learn and adapt to new technologies. 
