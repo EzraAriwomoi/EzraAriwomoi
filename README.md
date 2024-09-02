@@ -85,4 +85,7 @@ One thing that sets me apart as a fullstack developer is my strong communication
 <h2 align="center">🔝 Top Contributed Repos</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=EzraAriwomoi&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
 
-<br/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=EzraAriwomoi&label=Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
