@@ -80,4 +80,9 @@ One thing that sets me apart as a fullstack developer is my strong communication
 <h2 align="center">🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=EzraAriwomoi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 
+<hr/>
+
+<h2 align="center">🔝 Top Contributed Repos</h2>
+<img src="https://github-contributor-stats.vercel.app/api?username=EzraAriwomoi&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
+
 <br/>
