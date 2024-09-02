@@ -16,9 +16,7 @@
 <img align="right" alt="Coding" width="270" src="thinking-coding-EzraAriwomoi.gif">
 <div align="left">
  
-Fullstack developer from Kenya. Have a deep passion for technology, love solving problems creatively. What I enjoy most about being a fullstack developer is the opportunity to constantly learn and adapt to new technologies. 
-
-One thing that sets me apart as a fullstack developer is my strong communication and collaboration skills. I understand that teamwork is key to delivering high-quality projects, and I always strive to communicate my ideas clearly and work effectively with others to achieve our goals.
+Passionate <span style="color:#0e75b6">Fullstack Developer</span>, with a love for creative problem-solving and a commitment to continuous learning. Known for strong communication and teamwork, I excel in delivering high-quality projects by effectively collaborating and adapting to new technologies.
 
 💬 Ask me about **Flutter, React, Python, Firebase... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
 
