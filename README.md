@@ -68,15 +68,16 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzraAriwomoi&theme=github_dark&hide_border=false"/>
   <img  src="https://github-readme-stats.vercel.app/api?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
+</div>
+
+<div align="center">
   <picture>
   <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" width="auto">
-</picture>
-
+  </picture>
 </div>
 
 <hr/>
