@@ -11,16 +11,14 @@
 <!-- <h2 align="center">Welcome to my Github page! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" alt="Waving Hand"> </h2> -->
 
 <br/>
-<!-- <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-<!-- <img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> -->
-<img align="right" alt="Coding" width="270" src="thinking-coding-EzraAriwomoi.gif">
+
 <div align="left">
- 
-Passionate `Fullstack Developer` with a love for creative problem-solving and a commitment to continuous learning. Known for strong communication and teamwork, I excel in delivering high-quality projects by effectively collaborating and adapting to new technologies.
+  <img align="right" alt="Coding" src="thinking-coding-EzraAriwomoi.gif" width="250" style="max-width:100%; height:auto;"/>
 
-💬 Ask me about **`Flutter` `React` `Python` `Firebase`... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
+  Passionate `Fullstack Developer` with a love for creative problem-solving and a commitment to continuous learning. Known for strong communication and teamwork, I excel in delivering high-quality projects by effectively collaborating and adapting to new technologies.
 
- </div>
+  💬 Ask me about **`Flutter` `React` `Python` `Firebase`... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
+</div>
  
 <div align="center"> 
 <!--   <a href="mailto:kropezra@gmail.com">
@@ -70,27 +68,25 @@ Passionate `Fullstack Developer` with a love for creative problem-solving and a 
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=EzraAriwomoi&theme=github_dark&hide_border=false"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-<!--     https://github-readme-stats.vercel.app/api?username=EzraAriwomoi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats -->
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EzraAriwomoi&theme=github_dark&hide_border=false"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=EzraAriwomoi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=EzraAriwomoi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 
 <hr/>
 
 <h2 align="center">🔝 Top Contributed Repos</h2>
-<img src="https://github-contributor-stats.vercel.app/api?username=EzraAriwomoi&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
-
-
+<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=EzraAriwomoi&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=EzraAriwomoi&label=Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- # 💻 Tech Stack:
