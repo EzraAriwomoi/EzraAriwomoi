@@ -69,10 +69,14 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EzraAriwomoi&theme=github_dark&hide_border=false"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzraAriwomoi&theme=github_dark&hide_border=false"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <picture>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraAriwomoi&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" width="auto">
+</picture>
+
 </div>
 
 <hr/>
@@ -83,7 +87,9 @@
 <hr/>
 
 <h2 align="center">🔝 Top Contributed Repos</h2>
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=EzraAriwomoi&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
+<div align="center">
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=EzraAriwomoi&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
+</div>
 
 ---
 
