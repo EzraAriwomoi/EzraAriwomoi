@@ -2,7 +2,7 @@
 <!-- <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-kiveu" /> 
 </p> -->
-<!-- comment
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+Welcome+to+my+GitHub+page;" />
   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" alt="Waving Hand">
