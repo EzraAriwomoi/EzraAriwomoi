@@ -20,7 +20,7 @@
   💬 Ask me about **`Flutter` `React` `Python` `Firebase`... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
 </div>
  
-<div align="center"> center
+<div align="center">
 <!--   <a href="mailto:kropezra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a> -->
