@@ -1,4 +1,4 @@
-<img align="right" src="https://img.shields.io/badge/Profile%20views-8425-0e75b6" alt="Profile views"/>
+...<img align="right" src="https://img.shields.io/badge/Profile%20views-8425-0e75b6" alt="Profile views"/>
 <!-- <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-kiveu" /> 
 </p> -->
