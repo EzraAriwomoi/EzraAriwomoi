@@ -17,7 +17,7 @@
 
   Passionate `Fullstack Developer` with a love for creative problem-solving and a commitment to continuous learning. Known for strong communication and teamwork, I excel in delivering high-quality projects by effectively collaborating and adapting to new technologies.
 
-  💬 Ask me about **`Flutter` `React` 'native'`Python` `Firebase`... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
+  💬 Ask me about **`Flutter` `React` `Python` `Firebase`... or anything [here](https://github.com/EzraAriwomoi/EzraAriwomoi/issues)**
 </div>
  
 <div align="center">
